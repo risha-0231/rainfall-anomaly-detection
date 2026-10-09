@@ -1,6 +1,6 @@
 """
 SARIMA — Rainfall Anomaly Detection (fixed version)
-Dataset: rainfall_india.csv from https://www.kaggle.com/datasets/rajanand/rainfall-in-india
+Dataset: rainfall_india.csv from data.gov.in
 Install: pip install pandas numpy matplotlib scikit-learn statsmodels tabulate
 """
  
