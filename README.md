@@ -18,7 +18,7 @@ The system identifies:
 ##  Pipeline Architecture
 ┌──────────────────────────────────────────────────────┐
 │ DATA LOADING LAYER │
-│ • Kaggle: Rainfall in India (1901–2015) │
+│ • Rainfall in India (1901–2015) Dataset │
 │ • 36 meteorological subdivisions, monthly records │
 │ • Source: India Meteorological Department (IMD) │
 └────────────────────┬─────────────────────────────────┘
